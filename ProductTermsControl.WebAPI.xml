@@ -29,8 +29,5 @@
             Company Create
             </summary>
         </member>
-        <member name="M:WebApi.Controllers.UsersController.PositionCreate(ProductTermsControl.WebAPI.Models.PositionModel)">
-            
-        </member>
     </members>
 </doc>
